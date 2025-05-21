@@ -18,5 +18,4 @@ cuisines type:Type of cuisines
 area:Area of customer
 local address:Address of customer
 
-Ref:https://github.com/himanshu0195/Zomato-EDA/blob/main/EDA%20Notebook.ipynb
 Dataset From: Kaggle
