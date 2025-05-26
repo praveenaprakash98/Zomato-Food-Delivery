@@ -2,7 +2,7 @@
 EDA Analysis on Zomato Food Delivery Dataset
 
 “This EDA analysis is licensed under Apache 2.0 License.” “Users must provide proper attribution to Praveena Prakash before using this work.” "Praveena Prakash, EDA on Zomato Food Delivery Dataset, Github, 2025."
-Ref:
+
 
 # Data Schema
 Unnamed: 0.1:Counting Numbers
